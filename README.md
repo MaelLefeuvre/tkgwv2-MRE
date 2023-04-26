@@ -1,7 +1,7 @@
 # Minimal Reproducible Example - Steps:
 ```Bash
 # ---- Clone the repo
-MRE_REPO="https://github.com/MaelLefeuvre/tkgwv2-MRE.git"
+MRE_REPO="https://github.com/MaelLefeuvre/tkgwv2-mre.git"
 git glone --recursive $MRE_REPO
 
 # ---- Enter the repo and setup tkgwv2
