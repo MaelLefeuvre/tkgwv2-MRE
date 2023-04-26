@@ -1,0 +1,2 @@
+dummy-numeric-1	dummy-numeric-2
+dummy-lexicographic-1	dummy-lexicographic-2
